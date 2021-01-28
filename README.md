@@ -1,5 +1,5 @@
 # MutiThreaded-Server
-A Server that can serve multiple clients at a time using multithreading in java
+A Server that can serve multiple clients at a time implemented using Socket programming concepts and Multithreading Concepts in java
 
 # Server
 
